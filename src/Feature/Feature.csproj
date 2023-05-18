@@ -84,7 +84,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="App_Config\Include\zzz.Feature.config" />
     <None Include="packages.config" />
     <None Include="Feature.wpp.targets" />
   </ItemGroup>
