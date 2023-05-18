@@ -35,7 +35,7 @@
     }
   },
   "deployItems": {
-    "modules": []
+    "modules": ["Project.*"]
   },
   "buildTargets": ["./XmCloudSXAStarter.sln"]
 }
