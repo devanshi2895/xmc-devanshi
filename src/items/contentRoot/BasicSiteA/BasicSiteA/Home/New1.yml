@@ -1,0 +1,102 @@
+﻿---
+ID: "b2cb9cd5-790e-496e-b6bf-84c163939cb9"
+Parent: "dca65001-0965-4e37-baa2-c82e10d5d841"
+Template: "5c67e902-015d-48b4-8fc8-8ac87fe3bbcb"
+Path: /sitecore/content/BasicSiteA/BasicSiteA/Home/New1
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E953040D-2490-458A-BBF9-42BF33633589}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F80301AE-5252-4BF3-8AB7-8B494CD4C343}"
+              p:before="*"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={A7B3E3D7-D636-4741-86E6-FC8FBF315B42}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{8C704167-57DD-42F4-B209-13CF2EB9A313}"
+              p:after="r[@uid='{F80301AE-5252-4BF3-8AB7-8B494CD4C343}']"
+              s:ds="ac7245f3-eeb4-4d44-8c43-4f35bceea48d"
+              s:id="{4956263D-1195-4D6E-931B-800EA625FF6F}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={8DA299CA-E815-4361-8947-6FA3C93A790B}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles="
+              s:ph="headless-main" />
+            <r
+              uid="{5D41933A-3B62-4B23-95A0-99EA3F179B22}"
+              p:after="r[@uid='{8C704167-57DD-42F4-B209-13CF2EB9A313}']"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={6B206D31-A806-43EF-8962-8798D9B85DCA}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{A0F13FBF-3F52-442E-B5A4-A7964B09493C}"
+              p:after="r[@uid='{5D41933A-3B62-4B23-95A0-99EA3F179B22}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={D994D0DC-0A7F-425E-947B-5CD90071F734}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{98999026-B564-42A9-BF53-BE0843CDF707}"
+              p:after="r[@uid='{A0F13FBF-3F52-442E-B5A4-A7964B09493C}']"
+              s:ds="d306003e-b37d-416e-86f3-4f2b5b7147e9"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={CD076FE5-DDDA-4223-8D78-D26B682C3CAF}&amp;Styles=|{AD055325-451A-410F-BDE3-A7AB06783138}|{81E62577-F368-4F14-B68B-AAEC4B248206}|{0A7D92AF-89D5-4491-9E17-4C716656F8C4}|{1936E191-E355-48A5-A22B-7210F94CCC21}&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{6C01D345-87B5-45D2-9E04-86B0BE1B5372}"
+              p:after="r[@uid='{98999026-B564-42A9-BF53-BE0843CDF707}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1={89647981-C99C-44E3-A55E-65BFF555E4C3}&amp;ColumnWidth2={89647981-C99C-44E3-A55E-65BFF555E4C3}&amp;ColumnWidth3=&amp;ColumnWidth4=&amp;ColumnWidth5=&amp;ColumnWidth6=&amp;ColumnWidth7=&amp;ColumnWidth8=&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;SplitterSize=2&amp;EnabledPlaceholders=1,2&amp;FieldNames=&amp;Styles1=&amp;Styles2=&amp;Styles3=&amp;Styles4=&amp;Styles5=&amp;Styles6=&amp;Styles7=&amp;Styles=&amp;Styles8=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=6"
+              s:ph="headless-main" />
+            <r
+              uid="{BFED5FC0-BEBE-4843-90FD-5EAB68740B70}"
+              p:after="r[@uid='{6C01D345-87B5-45D2-9E04-86B0BE1B5372}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={0689AD74-E992-4544-BCA1-F9D56EEE4ED0}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/column-1-6" />
+            <r
+              uid="{0BC9D9A9-A861-4335-808C-32CDBC59CDF9}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 2"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames={A7B3E3D7-D636-4741-86E6-FC8FBF315B42}&amp;Styles=|{8DCBEFA6-0D55-4854-BDC6-514785F3B0D0}&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/column-2-6" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230515T062202Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New1
+    - ID: "6c202f59-a634-49cb-8ad5-6f649fceb34a"
+      Hint: Content
+      Value: <p>This is a page content component.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d976f797-76d3-484b-a8cb-644ee42a5cf7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "cdc461a7-4273-492e-b456-ea00cfad8b60"
+      Hint: Title
+      Value: This is a title component
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230515T071028Z
