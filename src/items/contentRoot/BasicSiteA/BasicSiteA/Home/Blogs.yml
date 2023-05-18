@@ -1,0 +1,23 @@
+﻿---
+ID: "ab561f7f-da5d-4a8f-9045-9aee605fc4d7"
+Parent: "dca65001-0965-4e37-baa2-c82e10d5d841"
+Template: "3fc26e85-2912-4933-afd1-a4fce6fd46c8"
+Path: /sitecore/content/BasicSiteA/BasicSiteA/Home/Blogs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T062651Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff86271c-419c-4efe-8754-4aaf7717bfe7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T062651Z
