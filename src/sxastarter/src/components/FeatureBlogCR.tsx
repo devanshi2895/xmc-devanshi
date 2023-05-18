@@ -1,13 +1,5 @@
 import React from 'react';
-import {
-  Image as JssImage,
-  Link as JssLink,
-  RichText as JssRichText,
-  ImageField,
-  Field,
-  LinkField,
-  Text,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
   items: {
@@ -27,7 +19,7 @@ type FeatureBlogProps = {
   fields: Fields;
 };
 
-const FeatureBlogDefaultComponent = (props: FeatureBlogProps): JSX.Element => (
+const FeatureBlogDefaultComponent = (): JSX.Element => (
   <div className={`component promo feature blog`}>
     <div className="component-content">
       <span className="is-empty-hint">Feature Blog</span>
@@ -60,5 +52,5 @@ export const Default = (props: FeatureBlogProps): JSX.Element => {
   //     );
   //   }
 
-  return <FeatureBlogDefaultComponent {...props} />;
+  return <FeatureBlogDefaultComponent />;
 };
