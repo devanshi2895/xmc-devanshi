@@ -1,0 +1,45 @@
+﻿---
+ID: "91e86385-5086-4be6-a96b-0fd134ba1a17"
+Parent: "dca65001-0965-4e37-baa2-c82e10d5d841"
+Template: "5c67e902-015d-48b4-8fc8-8ac87fe3bbcb"
+Path: /sitecore/content/BasicSiteA/BasicSiteA/Home/GraphQL Authoring API
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{ACE20796-CDF0-499B-B446-5EF38C87888F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T050119Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: GraphQL Authoring API
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\DGNPfIzCJ1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\DGNPfIzCJ1
+    - ID: "6c202f59-a634-49cb-8ad5-6f649fceb34a"
+      Hint: Content
+      Value: Welcome to Sitecore
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0d0d65e-601b-4e2e-ac1c-cf3807578284"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\DGNPfIzCJ1
+    - ID: "cdc461a7-4273-492e-b456-ea00cfad8b60"
+      Hint: Title
+      Value: GraphQL Authoring API
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230518T050124Z
