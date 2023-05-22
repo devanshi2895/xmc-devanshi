@@ -2,7 +2,7 @@
 ID: "26fdbf47-2e40-4852-90cf-19b173a28b02"
 Parent: "a13d44e9-6d39-471f-b7dc-6db1a00a1af0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/EventSite/EventPage/Event Page Detail/IntroText
+Path: /sitecore/templates/Project/EventSite/EventPage/Event Page Detail/Content
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
