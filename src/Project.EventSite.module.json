@@ -1,0 +1,40 @@
+{
+  "Schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.EventSite",
+  "tags": ["EventSite"],
+  "items": {
+    "includes": [
+      {
+        "name": "EventSite.templates",
+        "path": "/sitecore/templates/Project/EventSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "EventSite.AvailableRenderings",
+        "path": "/sitecore/content/EventSite/EventSite/Presentation/Available Renderings/EventSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "EventSite.contentRoot",
+        "path": "/sitecore/content/EventSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+
+      {
+        "name": "EventSite.media",
+        "path": "/sitecore/media library/Project/EventSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "EventSite.placeholderSettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/EventSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "EventSite.Renderings",
+        "path": "/sitecore/layout/Renderings/Project/EventSite",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

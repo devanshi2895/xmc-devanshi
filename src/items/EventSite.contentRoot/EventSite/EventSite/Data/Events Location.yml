@@ -1,0 +1,23 @@
+﻿---
+ID: "6e109b9a-f3be-497f-83d2-8f622f07f212"
+Parent: "f81b7c67-5514-4d76-bdb0-dc5e0412b5ae"
+Template: "fb23cada-6c4e-4390-b0ae-13c03f9b2c7b"
+Path: /sitecore/content/EventSite/EventSite/Data/Events Location
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T070252Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd169845-4710-429b-a17b-f903d5c95813"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T070252Z

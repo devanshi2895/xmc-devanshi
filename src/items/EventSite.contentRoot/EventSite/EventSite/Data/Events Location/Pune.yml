@@ -1,0 +1,26 @@
+﻿---
+ID: "4229f523-2432-45f7-8f24-884973a876b1"
+Parent: "6e109b9a-f3be-497f-83d2-8f622f07f212"
+Template: "6ff14215-9063-49d4-b9ea-099ed5c06afd"
+Path: /sitecore/content/EventSite/EventSite/Data/Events Location/Pune
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ed270-6d54-442d-a905-39285faf2379"
+      Hint: Location
+      Value: Pune
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T070947Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d199e2f2-d0cc-44d5-b256-61a5d8c257aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T070947Z

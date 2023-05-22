@@ -1,8 +1,12 @@
 ﻿---
-ID: "129eb6b5-0c82-453a-8120-1e94f1f183f0"
-Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/EventSite
+ID: "e18141f4-cba9-495a-abbd-ab71d785fcd0"
+Parent: "a24cc54a-da72-431c-81ef-75d3af401a55"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/EventSite/RelatedEvents
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: RelatedEvents
 Languages:
 - Language: en
   Versions:
@@ -10,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230519T093908Z
+      Value: 20230522T072050Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +25,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "04fba8b9-d9d3-4a6f-bf06-96845bc20ae2"
+      Value: "e76fbdd1-ee06-4828-924d-06c48b36fb65"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T070201Z
+      Value: 20230522T072050Z

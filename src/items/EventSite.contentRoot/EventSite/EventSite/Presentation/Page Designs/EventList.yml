@@ -1,8 +1,16 @@
 ﻿---
-ID: "129eb6b5-0c82-453a-8120-1e94f1f183f0"
-Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/EventSite
+ID: "ebf9fa18-a9bf-4377-9bc4-6d40b99309dc"
+Parent: "55816c4f-5f52-4145-808d-4da07859ea26"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/EventSite/EventSite/Presentation/Page Designs/EventList
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{82F3F407-F5A4-451B-9361-95031121426D}|{88DABF50-4A03-435B-9BB7-71F64992399F}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2C260D78-8D79-4FFF-9389-27FA014B7841}" />
 Languages:
 - Language: en
   Versions:
@@ -10,7 +18,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230519T093908Z
+      Value: 20230522T071557Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +29,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "04fba8b9-d9d3-4a6f-bf06-96845bc20ae2"
+      Value: "bfd8d045-8769-4f70-9e65-80353752eca8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T070201Z
+      Value: 20230522T071625Z
