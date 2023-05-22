@@ -1,0 +1,35 @@
+﻿---
+ID: "c58ae448-a6ae-4e23-b3f3-77549bb5bf84"
+Parent: "fb23cada-6c4e-4390-b0ae-13c03f9b2c7b"
+Template: "fb23cada-6c4e-4390-b0ae-13c03f9b2c7b"
+Path: /sitecore/templates/Project/EventSite/EventLocationDataFolder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{6FF14215-9063-49D4-B9EA-099ED5C06AFD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T061512Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91a46001-1aa1-4f9a-b22b-544b5de8e387"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T061600Z

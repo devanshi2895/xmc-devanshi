@@ -1,0 +1,26 @@
+﻿---
+ID: "4d4c2bba-7816-4cda-9635-cb00ab6c0c68"
+Parent: "6e109b9a-f3be-497f-83d2-8f622f07f212"
+Template: "6ff14215-9063-49d4-b9ea-099ed5c06afd"
+Path: /sitecore/content/EventSite/EventSite/Data/Events Location/Hydrabad
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "233ed270-6d54-442d-a905-39285faf2379"
+      Hint: Location
+      Value: Hydrabad
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T070351Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1443f3f-de6d-4df0-9527-1dab19795110"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T070938Z

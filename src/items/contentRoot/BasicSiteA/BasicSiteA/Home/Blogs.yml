@@ -3,7 +3,3 @@ ID: "ab561f7f-da5d-4a8f-9045-9aee605fc4d7"
 Parent: "dca65001-0965-4e37-baa2-c82e10d5d841"
 Template: "3fc26e85-2912-4933-afd1-a4fce6fd46c8"
 Path: /sitecore/content/BasicSiteA/BasicSiteA/Home/Blogs
-Languages:
-- Language: en
-  Versions:
-  - Version: 1

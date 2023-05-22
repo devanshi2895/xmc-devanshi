@@ -1,0 +1,32 @@
+﻿---
+ID: "9c7dc6d0-1c4a-4e61-bc06-5d430be9f915"
+Parent: "e1b2a0f3-1394-4fe8-a153-3b1940e38d5c"
+Template: "06f69309-0276-4750-8804-00eae515fbe0"
+Path: /sitecore/content/EventSite/EventSite/Home/Events/HI Hackathon
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ba1e9d7-3b62-45b4-9922-c2e1330d87a9"
+      Hint: EventLocation
+      Value: Bangalore
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T070748Z
+    - ID: "854b8aa8-c380-4e02-ac9d-29a83546dfc4"
+      Hint: RelatedEvents
+      Value: "{80D63228-F1F0-4534-83E1-6B374765652A}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37d303a2-fcf6-470d-ae38-f4b67017628e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T090018Z
+    - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
+      Hint: Title
+      Value: HI Hackathon

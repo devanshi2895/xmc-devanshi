@@ -1,0 +1,59 @@
+﻿---
+ID: "44e63a05-9707-4225-9ae7-af428a9d6f74"
+Parent: "06f69309-0276-4750-8804-00eae515fbe0"
+Template: "06f69309-0276-4750-8804-00eae515fbe0"
+Path: /sitecore/templates/Project/EventSite/EventPage/__Standard Values
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0262b2d0-86cc-4f8d-850a-fbb83a427463"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{EFABD197-C24C-444C-88B6-D55BE6EDF680}" alt="" height="166" width="200" hspace="" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T060735Z
+    - ID: "26fdbf47-2e40-4852-90cf-19b173a28b02"
+      Hint: IntroText
+      Value: |
+        <h2 style="color: #000000; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; line-height: 24px;">Where does it come from?</h2>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df7a9799-3c78-4036-8529-6cb0111f1dcc"
+    - ID: "ba08a9d3-4204-4b1b-a496-82616200a1f7"
+      Hint: Image
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T103913Z
+    - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
+      Hint: Title
+      Value: $name
+    - ID: "fd7ab60a-5785-4025-8cd7-b9c6a2759f3a"
+      Hint: Description
+      Value: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."

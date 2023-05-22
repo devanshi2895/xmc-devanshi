@@ -1,6 +1,7 @@
 {
   "Schema": "../../.sitecore/schemas/ModuleFile.schema.json",
   "namespace": "Project.BasicSiteA.XmCloud",
+  "tags": ["BasicSiteA"],
   "items": {
     "includes": [
       {
