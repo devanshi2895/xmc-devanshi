@@ -10,7 +10,15 @@ SharedFields:
     <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          ds=""
+          id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+          ph="/headless-main"
+          uid="{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}"
+          ccb="Clear on publish" />
+      </d>
     </r>
 Languages:
 - Language: en
@@ -25,7 +33,7 @@ Languages:
       Hint: __Created
       Value: 20230522T060735Z
     - ID: "26fdbf47-2e40-4852-90cf-19b173a28b02"
-      Hint: IntroText
+      Hint: Content
       Value: |
         <h2 style="color: #000000; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; line-height: 24px;">Where does it come from?</h2>
         <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px; text-align: justify;">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
@@ -39,7 +47,7 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "df7a9799-3c78-4036-8529-6cb0111f1dcc"
+      Value: "3fefd17e-380c-4de8-9807-fbc5228041ab"
     - ID: "ba08a9d3-4204-4b1b-a496-82616200a1f7"
       Hint: Image
       Value: |
@@ -50,7 +58,7 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T103913Z
+      Value: 20230522T121202Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: $name
