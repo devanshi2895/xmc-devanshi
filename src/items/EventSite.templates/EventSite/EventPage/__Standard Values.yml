@@ -47,7 +47,7 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3fefd17e-380c-4de8-9807-fbc5228041ab"
+      Value: "e6bcf61d-484b-4518-b9dd-8a1a68b47184"
     - ID: "ba08a9d3-4204-4b1b-a496-82616200a1f7"
       Hint: Image
       Value: |
@@ -58,10 +58,10 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T121202Z
+      Value: 20230523T082115Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: $name
     - ID: "fd7ab60a-5785-4025-8cd7-b9c6a2759f3a"
       Hint: Description
-      Value: "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      Value: "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."

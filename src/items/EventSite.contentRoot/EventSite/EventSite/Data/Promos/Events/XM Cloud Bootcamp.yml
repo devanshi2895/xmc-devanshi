@@ -1,0 +1,43 @@
+﻿---
+ID: "1c2b5fb6-a925-4252-8412-d08b33a194c6"
+Parent: "2cce4aac-ebc5-4c33-9715-b0ac24125eb8"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/EventSite/EventSite/Data/Promos/Events/XM Cloud Bootcamp
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T092243Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3>XM Cloud Bootcamp</h3>
+        <p>This is a featured event component which is a clone of Promo</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffce8da7-4d90-40d7-ac64-b92f099a9da6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T101224Z
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{D143E48D-E572-4CA9-82B2-DAC2171963BC}" />

@@ -1,0 +1,40 @@
+﻿---
+ID: "02615502-92e5-43ad-b7c9-2dbbf2635ee5"
+Parent: "2cce4aac-ebc5-4c33-9715-b0ac24125eb8"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/EventSite/EventSite/Data/Promos/Events/Salesforce Bootcamp
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T092243Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3>Salesforce Bootcamp</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49e9f5df-4ea2-411f-9c3a-2b8874c50492"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T094022Z
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{3296447D-DE41-49B1-8970-0BB523295A53}" />

@@ -3,30 +3,93 @@ ID: "9c7dc6d0-1c4a-4e61-bc06-5d430be9f915"
 Parent: "e1b2a0f3-1394-4fe8-a153-3b1940e38d5c"
 Template: "06f69309-0276-4750-8804-00eae515fbe0"
 Path: /sitecore/content/EventSite/EventSite/Home/Events/HI Hackathon
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{4B0D525A-101E-49CF-ACE7-F76CA4573FE7}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0262b2d0-86cc-4f8d-850a-fbb83a427463"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{426D2703-C2A5-4392-A513-4169E5F36A3A}" />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B01C4AEB-83FE-4A3E-97D8-E4329723AD8D}"
+              p:before="*"
+              s:ds="{EF480A49-4830-40D9-B6AE-47BB06A8E4FF}"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1/column-1-2/column-1-3" />
+            <r
+              uid="{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}"
+              s:par="GridParameters=%7B2833FDF2-F52C-4E7A-B291-E220C684FB8B%7D&amp;FieldNames&amp;Styles=%7B095325EB-BAC3-4263-80EC-C9D53BF35EB1%7D%7C%7BA0B199B9-7398-4D8F-9B01-D10C36A330CE%7D%7C%7B9940A589-8852-43A4-AF15-081599BF8DD2%7D%7C%7B5C8D5A84-0115-4376-8549-DB0907BDA5B7%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+              s:ph="/headless-main/container-1/column-1-2" />
+            <r
+              uid="{DCC9EC03-26A3-4E5C-A35A-22FFFF0AA667}"
+              p:after="r[@uid='{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1/column-1-2" />
+            <r
+              uid="{A167F5BC-EA8A-4595-A4F9-50EF08446149}"
+              p:after="r[@uid='{DCC9EC03-26A3-4E5C-A35A-22FFFF0AA667}']"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{AB6943AD-8476-453B-9FAF-B019724A91B9}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
     - ID: "0ba1e9d7-3b62-45b4-9922-c2e1330d87a9"
       Hint: EventLocation
       Value: Bangalore
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230522T070748Z
+    - ID: "26fdbf47-2e40-4852-90cf-19b173a28b02"
+      Hint: Content
+      Value: |
+        <h1><strong>How are hackathon competitions a boon for you?</strong></h1>
+        <h3>
+        A recent survey says that India ranks second in hosting hackathons, while the United States of America takes the first slot. Apart from private companies, even the Indian Government has turned to hackathons to find novel solutions for pressing problems, by leveraging the power of creative minds. </h3>
+        <h3>For example, the Smart India Hackathon is one of the most widespread hackathons in India initiated by the Ministry of Education.
+        So if you are missing out on reaping the benefits of the upcoming hackathons, here are a few points that will help you further understand the importance of such competitions:
+        </h3>
+        <h3>1. It’s the fastest way to get hired: If you have the desired skills but don’t want to go from pillar to post, searching for a job, maybe you should consider taking the hackathon coding route. Keeping up with the latest hiring trends, many companies are using hackathons to recruit candidates even for highly paid positions.
+        </h3>
+        <h3>2. Get noticed: While conducting hackathons expedites the hiring process, it also helps the companies to tap the inaccessible talent pool from the tier 3 or tier 4 colleges as well. Hence, for students who failed to make it to the ‘big’ colleges, hackathon competitions provide a level field. As they say, talent is not restricted by the walls of the institute that one studies in!</h3>
     - ID: "854b8aa8-c380-4e02-ac9d-29a83546dfc4"
       Hint: RelatedEvents
       Value: "{80D63228-F1F0-4534-83E1-6B374765652A}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "37d303a2-fcf6-470d-ae38-f4b67017628e"
+      Value: "564b2fbe-b8f4-4ffd-a38f-074fcc47a996"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T090018Z
+      Value: 20230523T094616Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: HI Hackathon

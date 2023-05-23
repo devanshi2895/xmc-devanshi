@@ -3,11 +3,19 @@ ID: "02d92335-d70a-4b16-8309-64d4cd87f622"
 Parent: "e1b2a0f3-1394-4fe8-a153-3b1940e38d5c"
 Template: "06f69309-0276-4750-8804-00eae515fbe0"
 Path: /sitecore/content/EventSite/EventSite/Home/Events/Salesforce Bootcamp
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{4B0D525A-101E-49CF-ACE7-F76CA4573FE7}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "0262b2d0-86cc-4f8d-850a-fbb83a427463"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{626505D2-A78A-4630-B3A1-8E2D59E29DC4}" />
     - ID: "0ba1e9d7-3b62-45b4-9922-c2e1330d87a9"
       Hint: EventLocation
       Value: Bangalore
@@ -16,14 +24,14 @@ Languages:
       Value: 20230522T070835Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5b3c7718-45bc-4203-98cd-44117e1bd5eb"
+      Value: "b98aaabe-5b95-466d-9532-fa87f50790f1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T090018Z
+      Value: 20230523T082236Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: Salesforce Bootcamp
