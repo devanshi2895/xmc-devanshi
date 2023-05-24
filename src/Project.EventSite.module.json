@@ -9,11 +9,7 @@
         "path": "/sitecore/templates/Project/EventSite",
         "allowedPushOperations": "CreateAndUpdate"
       },
-      {
-        "name": "EventSite.AvailableRenderings",
-        "path": "/sitecore/content/EventSite/EventSite/Presentation/Available Renderings/EventSite",
-        "allowedPushOperations": "CreateAndUpdate"
-      },
+
       {
         "name": "EventSite.contentRoot",
         "path": "/sitecore/content/EventSite",

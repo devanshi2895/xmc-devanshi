@@ -38,25 +38,35 @@ export const Default = (props: EventListProps): JSX.Element => {
   if (result) {
     return (
       <>
-        {result.map((res, index) => {
-          console.log(res);
+        <div className="container">
+          <div className="row row-cols-2 row-cols-lg-3">
+            {result.map((res, index) => {
+              return (
+                <div className="col" key={index}>
+                  <div className="card" style={{ width: '30rem' }}>
+                    <JssImage
+                      field={res.Thumbnail.jsonValue.value}
+                      className="card-img-top"
+                      height="200"
+                      width="204"
+                    />
 
-          return (
-            <div key={index} className="card" style={{ width: '30rem' }}>
-              <JssImage field={res.Thumbnail.jsonValue.value} className="card-img-top" />
+                    <div className="card-body">
+                      <Text field={res.Title} tag="h3" className="card-title"></Text>
 
-              <div className="card-body">
-                <Text field={res.Title} tag="h5" className="card-title"></Text>
+                      <Text field={res.Description} className="card-text" tag="p" />
 
-                <Text field={res.Description} className="card-text" tag="p" />
-
-                <a href={res.EventUrl.url} className="btn btn-primary">
-                  View Detail
-                </a>
-              </div>
-            </div>
-          );
-        })}
+                      <a href={res.EventUrl.url} className="btn btn-primary">
+                        View Detail
+                      </a>
+                    </div>
+                  </div>
+                  <br />
+                </div>
+              );
+            })}
+          </div>
+        </div>
       </>
     );
   }

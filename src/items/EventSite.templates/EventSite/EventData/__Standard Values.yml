@@ -1,0 +1,54 @@
+﻿---
+ID: "8e5deffd-01bc-41a5-8e0e-dffdc4e54daa"
+Parent: "95bab93a-96cb-45b6-b5a5-1868d7371780"
+Template: "95bab93a-96cb-45b6-b5a5-1868d7371780"
+Path: /sitecore/templates/Project/EventSite/EventData/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230524T094658Z
+    - ID: "46c76d2b-c414-4eea-90aa-e4f1036df407"
+      Hint: Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2386373-effd-4082-9a35-070dd809fb75"
+    - ID: "b416b5fb-4412-41cf-b939-1bfba689b0de"
+      Hint: EventLocation
+      Value: Bangalore
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "c97e8e86-58ac-45cf-9a30-185b43dd35cc"
+      Hint: Image
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
+    - ID: "cba248ca-cb43-447a-a16e-74b3254005ef"
+      Hint: Description
+      Value: Description from the event data template
+    - ID: "d081f5b8-069e-4bc7-b0f8-93b61ef25467"
+      Hint: Content
+      Value: Content from the event data template
+    - ID: "d377e2e1-e89b-428a-b74d-68025856fef7"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{EFABD197-C24C-444C-88B6-D55BE6EDF680}" />
+    - ID: "d3d6e155-76b3-47dc-9fcc-4d48758bbf05"
+      Hint: RelatedEvents
+      Value: "{02D92335-D70A-4B16-8309-64D4CD87F622}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230524T094752Z

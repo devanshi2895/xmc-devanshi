@@ -4,6 +4,9 @@ Parent: "a13d44e9-6d39-471f-b7dc-6db1a00a1af0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/EventSite/EventPage/Event Page Detail/Content
 SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:$xaRichTextProfile"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Rich Text
@@ -28,11 +31,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2057ceec-5c6f-4011-b62d-24a37cc36dc0"
+      Value: "ec93c6e9-773d-4210-8ad6-92bc93f4bda5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T072454Z
+      Value: 20230523T082114Z

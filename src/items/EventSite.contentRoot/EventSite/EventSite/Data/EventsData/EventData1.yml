@@ -1,0 +1,26 @@
+﻿---
+ID: "719b3194-5f89-4073-b45e-0fdca04a7d2a"
+Parent: "047bfdfd-9d13-44c4-8bc6-34522a625b03"
+Template: "95bab93a-96cb-45b6-b5a5-1868d7371780"
+Path: /sitecore/content/EventSite/EventSite/Data/EventsData/EventData1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230524T095335Z
+    - ID: "46c76d2b-c414-4eea-90aa-e4f1036df407"
+      Hint: Title
+      Value: EventData1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cc33917-6d6c-4f25-bd30-c9bf71882965"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230524T095335Z

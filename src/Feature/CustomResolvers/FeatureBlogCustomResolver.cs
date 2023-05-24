@@ -22,7 +22,7 @@ namespace Feature.CustomResolvers
 
       Item ds = GetContextItem(rendering, renderingConfig);
 
-      var featuredBlogFieldId = new ID("{E58C1703-21DB-4EFF-9EEC-48979C2F38D3}");
+      var featuredBlogFieldId = new ID(Constants.FeaturedBlogFieldId);
 
       //if the rendering datasource has curated items
       if (ds.Fields.Contains(featuredBlogFieldId) && !string.IsNullOrWhiteSpace(ds.Fields[featuredBlogFieldId].Value))
