@@ -42,8 +42,8 @@ export const Default = (props: EventListProps): JSX.Element => {
           <div className="row row-cols-2 row-cols-lg-3">
             {result.map((res, index) => {
               return (
-                <div className="col">
-                  <div key={index} className="card" style={{ width: '30rem' }}>
+                <div className="col" key={index}>
+                  <div className="card" style={{ width: '30rem' }}>
                     <JssImage
                       field={res.Thumbnail.jsonValue.value}
                       className="card-img-top"
