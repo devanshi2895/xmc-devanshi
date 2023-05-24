@@ -27,28 +27,45 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{B01C4AEB-83FE-4A3E-97D8-E4329723AD8D}"
+              uid="{3CA4B381-2D57-40B7-BAE5-3E1FB8545CAD}"
               p:before="*"
+              s:id="{E18141F4-CBA9-495A-ABBD-AB71D785FCD0}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/container-1/container-6" />
+            <r
+              uid="{5294B45F-5073-4126-B6B5-7579F4EDECCB}"
+              p:after="r[@uid='{3CA4B381-2D57-40B7-BAE5-3E1FB8545CAD}']"
               s:ds="{EF480A49-4830-40D9-B6AE-47BB06A8E4FF}"
               s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
-              s:ph="/headless-main/container-1/column-1-2/column-1-3" />
+              s:par="GridParameters=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1/column-2-2" />
             <r
               uid="{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}"
-              s:par="GridParameters=%7B2833FDF2-F52C-4E7A-B291-E220C684FB8B%7D&amp;FieldNames&amp;Styles=%7B095325EB-BAC3-4263-80EC-C9D53BF35EB1%7D%7C%7BA0B199B9-7398-4D8F-9B01-D10C36A330CE%7D%7C%7B9940A589-8852-43A4-AF15-081599BF8DD2%7D%7C%7B5C8D5A84-0115-4376-8549-DB0907BDA5B7%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+              s:par="GridParameters&amp;FieldNames&amp;Styles=%7B095325EB-BAC3-4263-80EC-C9D53BF35EB1%7D%7C%7BA0B199B9-7398-4D8F-9B01-D10C36A330CE%7D%7C%7B9940A589-8852-43A4-AF15-081599BF8DD2%7D%7C%7B5C8D5A84-0115-4376-8549-DB0907BDA5B7%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
               s:ph="/headless-main/container-1/column-1-2" />
             <r
-              uid="{DCC9EC03-26A3-4E5C-A35A-22FFFF0AA667}"
-              p:after="r[@uid='{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}']"
-              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
-              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
-              s:ph="/headless-main/container-1/column-1-2" />
+              uid="{777C1B15-3F3A-4649-BCA1-FA28A669DE15}">
+              <p:d />
+            </r>
             <r
               uid="{A167F5BC-EA8A-4595-A4F9-50EF08446149}"
-              p:after="r[@uid='{DCC9EC03-26A3-4E5C-A35A-22FFFF0AA667}']"
+              p:after="r[@uid='{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}']"
               s:ds=""
               s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
-              s:par="ColumnWidth1=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{D8ABC09D-7FD5-41D3-B6F8-9B550B465E64}"
+              p:after="r[@uid='{A167F5BC-EA8A-4595-A4F9-50EF08446149}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7B095325EB-BAC3-4263-80EC-C9D53BF35EB1%7D%7C%7B72C3A411-92BC-42B5-B9F4-194A4169D154%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{1455EF49-39A7-4DD4-B2A9-F94CD5ED0C4C}"
+              p:after="r[@uid='{D8ABC09D-7FD5-41D3-B6F8-9B550B465E64}']"
+              s:id="{E18141F4-CBA9-495A-ABBD-AB71D785FCD0}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
               s:ph="/headless-main/container-1" />
             <r
               uid="{AB6943AD-8476-453B-9FAF-B019724A91B9}"
@@ -61,7 +78,7 @@ Languages:
         </r>
     - ID: "0ba1e9d7-3b62-45b4-9922-c2e1330d87a9"
       Hint: EventLocation
-      Value: Bangalore
+      Value: Vadodara
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230522T070748Z
@@ -79,17 +96,20 @@ Languages:
         <h3>2. Get noticed: While conducting hackathons expedites the hiring process, it also helps the companies to tap the inaccessible talent pool from the tier 3 or tier 4 colleges as well. Hence, for students who failed to make it to the ‘big’ colleges, hackathon competitions provide a level field. As they say, talent is not restricted by the walls of the institute that one studies in!</h3>
     - ID: "854b8aa8-c380-4e02-ac9d-29a83546dfc4"
       Hint: RelatedEvents
-      Value: "{80D63228-F1F0-4534-83E1-6B374765652A}"
+      Value: |
+        {80D63228-F1F0-4534-83E1-6B374765652A}
+        {02D92335-D70A-4B16-8309-64D4CD87F622}
+        {6F0130F0-305C-4AEF-BEBE-AFBD2DB574E2}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "564b2fbe-b8f4-4ffd-a38f-074fcc47a996"
+      Value: "c565abd6-8672-463d-86da-93635e6b36d2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T094616Z
+      Value: 20230524T082118Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: HI Hackathon

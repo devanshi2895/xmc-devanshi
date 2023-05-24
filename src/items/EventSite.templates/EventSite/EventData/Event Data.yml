@@ -1,8 +1,8 @@
 ﻿---
-ID: "2e8a3c4c-be72-406f-bf2f-f959cc228c23"
-Parent: "bf8d6164-3b17-4f9a-9f37-baff5a1876f9"
-Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/EventSite/EventSite/Home/Events/Data/Text 1
+ID: "fc1b9926-bd98-4ef4-8d04-637393f696fa"
+Parent: "95bab93a-96cb-45b6-b5a5-1868d7371780"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/EventSite/EventData/Event Data
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230523T101337Z
+      Value: 20230524T094421Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b0622ede-479c-4d52-98b5-666a7a3185f9"
+      Value: "a753a331-1166-415c-b2c1-f5e65feeb804"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T101337Z
+      Value: 20230524T094421Z

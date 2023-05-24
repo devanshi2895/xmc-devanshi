@@ -10,11 +10,10 @@ using System.Web.UI;
 
 namespace Feature.CustomResolvers
 {
-
-  public class FeatureBlogCustomResolver : Sitecore.LayoutService.ItemRendering.ContentsResolvers.RenderingContentsResolver
+  internal class ReletedEventsContentResolver : Sitecore.LayoutService.ItemRendering.ContentsResolvers.RenderingContentsResolver
   {
     private List<Item> items = new List<Item>();
-    
+
     public override object ResolveContents(Sitecore.Mvc.Presentation.Rendering rendering, IRenderingConfiguration renderingConfig)
     {
       Assert.ArgumentNotNull(rendering, nameof(rendering));
@@ -22,12 +21,12 @@ namespace Feature.CustomResolvers
 
       Item ds = GetContextItem(rendering, renderingConfig);
 
-      var featuredBlogFieldId = new ID(Constants.FeaturedBlogFieldId);
+      var relatedEventsFieldId = new ID(Constants.ReletedEventsFieldId);
 
       //if the rendering datasource has curated items
-      if (ds.Fields.Contains(featuredBlogFieldId) && !string.IsNullOrWhiteSpace(ds.Fields[featuredBlogFieldId].Value))
+      if (ds.Fields.Contains(relatedEventsFieldId) && !string.IsNullOrWhiteSpace(ds.Fields[relatedEventsFieldId].Value))
       {
-        List<string> blogItemIds = ds.Fields[featuredBlogFieldId].Value.Split('|').ToList();
+        List<string> blogItemIds = ds.Fields[relatedEventsFieldId].Value.Split('|').ToList();
         foreach (var id in blogItemIds)
         {
           var item = Sitecore.Context.Database.GetItem(new ID(id));
@@ -49,12 +48,5 @@ namespace Feature.CustomResolvers
       jobject["items"] = ProcessItems(objList, rendering, renderingConfig);
       return jobject;
     }
-  }
-
-  public class FeatureBlogList
-  {
-    public string Title { get; set; }
-    public string Description { get; set; }
-    public string SubTitle { get; set; }
   }
 }

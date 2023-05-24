@@ -38,6 +38,9 @@ Languages:
               s:par="ColumnWidth1=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
               s:ph="/headless-main/container-1" />
             <r
+              uid="{777C1B15-3F3A-4649-BCA1-FA28A669DE15}"
+              p:after="r[@uid='{BDE63189-0FDD-4ADD-B3F5-5EC179F3EABB}']" />
+            <r
               uid="{6948AF41-1810-440F-9B64-0CF176914C3A}"
               p:after="*[1=2]"
               s:ds=""
@@ -66,16 +69,21 @@ Languages:
         <h3>Build social media campaigns
         It’s important to get in social media at least few weeks before an event. With well targeted, buzzy social media campaigns you can substantially boost your event attendance. </h3>
         <h3>The golden rule is the following: catchy texts, relevant hashtags, attention-grabbing visuals, as many videos as possible.</h3>
+    - ID: "854b8aa8-c380-4e02-ac9d-29a83546dfc4"
+      Hint: RelatedEvents
+      Value: |
+        {9C7DC6D0-1C4A-4E61-BC06-5D430BE9F915}
+        {80D63228-F1F0-4534-83E1-6B374765652A}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6dd4b7d7-9047-4c2f-89b8-4ba384b10ad1"
+      Value: "52a7a8eb-539b-48be-befd-ef3aff80464c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T083133Z
+      Value: 20230524T080239Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: Inauguration

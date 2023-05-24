@@ -1,16 +1,19 @@
 ﻿---
-ID: "129eb6b5-0c82-453a-8120-1e94f1f183f0"
-Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/EventSite
+ID: "81ea3239-5202-431a-9a21-15d505a4a188"
+Parent: "f99372ba-a228-47fc-b3c3-9ea2a10dd3bd"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/EventSite/EventSite/Home/Events/HI Hackathon/Data/Text 1
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230519T093908Z
+      Value: 20230524T081744Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -19,13 +22,17 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\dkakade@horizontal.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2 style="text-align: center;"><strong>Related Events</strong></h2>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ae51a30b-044d-4d93-9013-dd69d5adb151"
+      Value: "dc5e903e-76c8-4703-93bb-1bce92e81644"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230524T095223Z
+      Value: 20230524T082118Z
