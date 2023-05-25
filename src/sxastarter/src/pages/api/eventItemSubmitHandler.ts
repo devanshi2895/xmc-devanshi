@@ -9,7 +9,7 @@ const webHookReqRes = async (
   console.log('Workflow Web hook response = ' + JSON.stringify(_req.body));
   const jsonData = JSON.parse(JSON.stringify(_req.body));
   // console.log(jsonData);
-  // console.log(jsonData?.Comments[0]?.Value);
+  console.log(jsonData?.DataItem?.Name);
 
   const comment = jsonData?.Comments[0]?.Value;
   const eventItemName = jsonData?.DataItem?.Name;
@@ -17,12 +17,12 @@ const webHookReqRes = async (
 
   await SendEmail({
     to: 'dkakade@horizontal.com',
-    subject: { eventItemName } + 'Event item was created',
+    subject: eventItemName + 'Event item was created',
     html:
       '<p><b>Comments to review : </b>&nbsp; ' +
       comment +
       '</p><p>Go and check out the new event item <b>' +
-      { eventItemName } +
+      eventItemName +
       '</b> </p>',
   });
 };
