@@ -13,8 +13,8 @@ const smtpOptions = {
   secure: true,
   auth: { user: process.env.SMTP_USERNAME, pass: process.env.SMTP_KEY },
 };
-console.log('UserName : ' + process.env.SMTP_USERNAME);
-console.log('Password : ' + process.env.SMTP_KEY);
+// console.log('UserName : ' + process.env.SMTP_USERNAME);
+// console.log('Password : ' + process.env.SMTP_KEY);
 export const SendEmail = async (emailData: EmailPayload) => {
   const transporter = nodemailer.createTransport({
     ...smtpOptions,
