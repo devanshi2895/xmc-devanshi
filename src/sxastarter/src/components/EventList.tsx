@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 import { Image as JssImage, ImageField, Field, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
@@ -41,6 +42,8 @@ export const Default = (props: EventListProps): JSX.Element => {
         <div className="container">
           <div className="row row-cols-2 row-cols-lg-3">
             {result.map((res, index) => {
+              console.log('inside event list');
+              console.log(res.EventUrl);
               return (
                 <div className="col" key={index}>
                   <div className="card" style={{ width: '30rem' }}>
@@ -55,6 +58,10 @@ export const Default = (props: EventListProps): JSX.Element => {
                       <Text field={res.Title} tag="h3" className="card-title"></Text>
 
                       <Text field={res.Description} className="card-text" tag="p" />
+
+                      <Link href={res.EventUrl.url} className="btn btn-warning">
+                        <a>View Detail</a>
+                      </Link>
 
                       <a href={res.EventUrl.url} className="btn btn-primary">
                         View Detail
