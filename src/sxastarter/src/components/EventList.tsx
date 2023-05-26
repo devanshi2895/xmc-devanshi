@@ -63,9 +63,9 @@ export const Default = (props: EventListProps): JSX.Element => {
                         <a>View Detail</a>
                       </Link>
 
-                      <a href={res.EventUrl.url} className="btn btn-primary">
+                      {/* <a href={res.EventUrl.url} className="btn btn-primary">
                         View Detail
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                   <br />
