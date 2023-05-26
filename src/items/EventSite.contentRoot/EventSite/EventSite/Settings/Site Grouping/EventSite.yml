@@ -17,15 +17,21 @@ SharedFields:
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
+- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
+  Hint: POS
+  Value: "en=xmc-eventsite-dev"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: EventSite
 - ID: "da06d09e-02b6-464a-80fc-9d8d7fc875e3"
   Hint: Environment
   Value: *
+- ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
+  Hint: TargetHostName
+  Value: 
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Local
+  Value: Default
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
@@ -47,11 +53,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "01f182d3-5077-425b-85b1-3c1f4c93dde9"
+      Value: "3beff442-4ed0-4a02-b8fb-80e54721b1a3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T073039Z
+      Value: 20230525T094848Z

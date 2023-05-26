@@ -67,25 +67,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{B03654C0-BD94-4766-84D6-96C3D0B5AC65}"
-              p:after="*[1=2]"
-              s:ds="{EF480A49-4830-40D9-B6AE-47BB06A8E4FF}"
-              s:id="{80CBA2D1-0B02-4FC3-9568-6AF485D6B240}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B1B785319-E311-437F-A9CC-CD10B4BC5F3B%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
-              s:ph="/headless-main/container-1" />
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230519T093918Z
@@ -102,14 +83,14 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8967807c-6d85-4ca1-bdae-da0dc4f29783"
+      Value: "2011619f-4393-44b1-87ec-a56af5c22864"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T122823Z
+      Value: 20230519T093959Z
     - ID: "df5911e6-79e4-4292-a8c7-f119dfe9d327"
       Hint: Title
       Value: Home

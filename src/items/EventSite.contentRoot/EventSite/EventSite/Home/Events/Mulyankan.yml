@@ -7,6 +7,72 @@ SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
   Hint: Page Design
   Value: "{4B0D525A-101E-49CF-ACE7-F76CA4573FE7}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C9892497-0D1B-4A3F-B47C-62AB8B5AAFD7}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{662032F7-98EA-40E4-836E-4EFB0C4187F5}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{77A774EE-9E63-4A78-A394-ABFF95A84861}"
+          p:before="*"
+          s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7BA0B199B9-7398-4D8F-9B01-D10C36A330CE%7D%7C%7B72C3A411-92BC-42B5-B9F4-194A4169D154%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{699973AC-95BD-4758-81F0-A92BE945F28A}"
+          p:after="r[@uid='{77A774EE-9E63-4A78-A394-ABFF95A84861}']"
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters=%7B9D32E42C-BA64-44DC-9908-D85BEFD0AA28%7D&amp;FieldNames&amp;Styles=%7B67D6ADEF-3FDF-4138-A83F-14F3F5DCA8EA%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+          s:ph="/headless-main/container-1/column-1-2" />
+        <r
+          uid="{5294B45F-5073-4126-B6B5-7579F4EDECCB}"
+          p:after="r[@uid='{699973AC-95BD-4758-81F0-A92BE945F28A}']"
+          s:ds="{6C58BED0-610E-4B7D-BD2F-100286F03267}"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="GridParameters=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-1/column-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A167F5BC-EA8A-4595-A4F9-50EF08446149}"
+          p:after="r[@uid='{5294B45F-5073-4126-B6B5-7579F4EDECCB}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BBF58CE90-1690-471B-9FCD-44FBFF3CC99C%7D&amp;ColumnWidth2=%7B6FE54025-EFB3-4F3E-A158-41EC918E98D1%7D&amp;ColumnWidth3=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{D8ABC09D-7FD5-41D3-B6F8-9B550B465E64}"
+          p:after="r[@uid='{A167F5BC-EA8A-4595-A4F9-50EF08446149}']"
+          s:ds="{ACE0F488-49DD-4871-BEDF-B50A0A11CC5E}"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7B095325EB-BAC3-4263-80EC-C9D53BF35EB1%7D%7C%7B72C3A411-92BC-42B5-B9F4-194A4169D154%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3CA4B381-2D57-40B7-BAE5-3E1FB8545CAD}"
+          p:after="r[@uid='{D8ABC09D-7FD5-41D3-B6F8-9B550B465E64}']"
+          s:ds=""
+          s:id="{E18141F4-CBA9-495A-ABBD-AB71D785FCD0}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{AB6943AD-8476-453B-9FAF-B019724A91B9}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -25,16 +91,43 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230522T070711Z
+    - ID: "26fdbf47-2e40-4852-90cf-19b173a28b02"
+      Hint: Content
+      Value: |
+        Self-evolution refers to the process of personal growth, development, and improvement that individuals undertake to enhance various aspects of their lives. It involves continuous learning, self-reflection, and taking deliberate actions to evolve and reach one's full potential.<br />
+        <br />
+        Here are a few key aspects of self-evolution:<br />
+        <br />
+        1. Self-Awareness: Self-evolution starts with self-awareness, which involves understanding one's strengths, weaknesses, values, beliefs, and emotions. It requires being honest with oneself and developing a deep understanding of personal motivations, aspirations, and areas for improvement.<br />
+        <br />
+        2. Lifelong Learning: Self-evolution entails a commitment to continuous learning and personal development. This can involve acquiring new knowledge, skills, and competencies through various means such as reading, attending workshops or courses, seeking mentorship, or engaging in online learning platforms.<br />
+        <br />
+        3. Self-Reflection: Reflection is an essential aspect of self-evolution. It involves taking the time to introspect, evaluate past experiences, and learn from them. Regular self-reflection allows individuals to gain insights, identify patterns, and make adjustments or changes to behaviors or beliefs that may be limiting personal growth.<br />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{72E21251-85B0-4A13-B181-FCE910B08232}"
+    - ID: "854b8aa8-c380-4e02-ac9d-29a83546dfc4"
+      Hint: RelatedEvents
+      Value: |
+        {02D92335-D70A-4B16-8309-64D4CD87F622}
+        {6F0130F0-305C-4AEF-BEBE-AFBD2DB574E2}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eb3d8345-11b0-4cad-b21d-6345a780efe4"
+      Value: "246d0b21-00b4-4c9e-9b17-5b1d828bd4f3"
+    - ID: "ba08a9d3-4204-4b1b-a496-82616200a1f7"
+      Hint: Image
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230524T082118Z
+      Value: 20230526T095521Z
     - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
       Hint: Title
       Value: Mulyankan
+    - ID: "fd7ab60a-5785-4025-8cd7-b9c6a2759f3a"
+      Hint: Description
+      Value: "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."

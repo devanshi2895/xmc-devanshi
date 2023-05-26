@@ -29,15 +29,15 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ffce8da7-4d90-40d7-ac64-b92f099a9da6"
+      Value: "3b8b5cdd-4085-4e73-a01e-19c196f49f53"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T101224Z
+      Value: 20230525T084052Z
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{D143E48D-E572-4CA9-82B2-DAC2171963BC}" />
+        <image mediaid="{D143E48D-E572-4CA9-82B2-DAC2171963BC}" ></image>

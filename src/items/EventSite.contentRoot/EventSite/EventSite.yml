@@ -23,6 +23,9 @@ SharedFields:
     {AC1A27CA-6BF3-4D23-915E-668326D52CF1}
     {D7EEAF4D-2B58-4029-B141-844221565EF0}
     {ED6C4A9B-E3DC-413A-BEF6-337ABB7FD2C7}
+- ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
+  Hint: SitemapMediaItems
+  Value: "{62309947-F125-4237-BB40-3DAA06DA2B81}"
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
   Value: "{77451CDD-796E-45B7-8BD1-B64E033A888A}"
@@ -47,11 +50,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4ec80638-704e-4980-b0d6-66976c475aba"
+      Value: "9fc76516-db6a-4a03-afe5-deef4dcb4348"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230519T093952Z
+      Value: 20230526T110317Z

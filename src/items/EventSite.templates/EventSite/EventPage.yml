@@ -12,7 +12,6 @@ SharedFields:
   Value: |
     {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {6650FB34-7EA1-4245-A919-5CC0F002A6D7}
-    {371D5FBB-5498-4D94-AB2B-E3B70EEBE78C}
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
   Value: "{44E63A05-9707-4225-9AE7-AF428A9D6F74}"
@@ -34,11 +33,11 @@ Languages:
         sitecore\dkakade@horizontal.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "631285f9-8d23-4c11-ac48-da84b73aded4"
+      Value: "d722f66c-cb6c-40f0-ac53-2a2e4fe7f103"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\dkakade@horizontal.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T082115Z
+      Value: 20230526T091249Z

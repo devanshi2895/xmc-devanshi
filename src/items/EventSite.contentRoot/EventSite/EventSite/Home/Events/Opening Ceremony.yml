@@ -1,0 +1,172 @@
+﻿---
+ID: "7428a6ba-aa67-45d9-9ec4-fd83cf3cdbf7"
+Parent: "e1b2a0f3-1394-4fe8-a153-3b1940e38d5c"
+Template: "06f69309-0276-4750-8804-00eae515fbe0"
+Path: /sitecore/content/EventSite/EventSite/Home/Events/Opening Ceremony
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{4B0D525A-101E-49CF-ACE7-F76CA4573FE7}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C9892497-0D1B-4A3F-B47C-62AB8B5AAFD7}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{75732A6D-DE64-4176-B0C1-310B4D0AB0FB}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{C9892497-0D1B-4A3F-B47C-62AB8B5AAFD7}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5C71FEB5-59B4-4D2A-8A80-6C033A7C4B40}"
+          p:before="*"
+          s:ds=""
+          s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7BA0B199B9-7398-4D8F-9B01-D10C36A330CE%7D%7C%7B72C3A411-92BC-42B5-B9F4-194A4169D154%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{44B0194A-3499-4080-B073-B601C4306699}"
+          p:after="r[@uid='{5C71FEB5-59B4-4D2A-8A80-6C033A7C4B40}']"
+          s:ds=""
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters=%7B9D32E42C-BA64-44DC-9908-D85BEFD0AA28%7D&amp;FieldNames&amp;Styles=%7B67D6ADEF-3FDF-4138-A83F-14F3F5DCA8EA%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+          s:ph="/headless-main/container-1/column-1-2" />
+        <r
+          uid="{5294B45F-5073-4126-B6B5-7579F4EDECCB}"
+          p:after="r[@uid='{44B0194A-3499-4080-B073-B601C4306699}']"
+          s:ds="{6531DBE7-FDD6-49CE-B329-1CF64B2EA2F5}"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="GridParameters=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-1/column-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A167F5BC-EA8A-4595-A4F9-50EF08446149}"
+          p:after="r[@uid='{5294B45F-5073-4126-B6B5-7579F4EDECCB}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BBF58CE90-1690-471B-9FCD-44FBFF3CC99C%7D&amp;ColumnWidth2=%7B6FE54025-EFB3-4F3E-A158-41EC918E98D1%7D&amp;ColumnWidth3=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{D8ABC09D-7FD5-41D3-B6F8-9B550B465E64}"
+          p:after="r[@uid='{A167F5BC-EA8A-4595-A4F9-50EF08446149}']"
+          s:ds="{ACE0F488-49DD-4871-BEDF-B50A0A11CC5E}"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7B095325EB-BAC3-4263-80EC-C9D53BF35EB1%7D%7C%7B72C3A411-92BC-42B5-B9F4-194A4169D154%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3CA4B381-2D57-40B7-BAE5-3E1FB8545CAD}"
+          p:after="r[@uid='{D8ABC09D-7FD5-41D3-B6F8-9B550B465E64}']"
+          s:ds=""
+          s:id="{E18141F4-CBA9-495A-ABBD-AB71D785FCD0}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{AB6943AD-8476-453B-9FAF-B019724A91B9}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0262b2d0-86cc-4f8d-850a-fbb83a427463"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{2AD1E5C1-4C14-4900-8B3D-81AA3D25980F}" />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles=%7B72C3A411-92BC-42B5-B9F4-194A4169D154%7D%7C%7B5C8D5A84-0115-4376-8549-DB0907BDA5B7%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId"
+              s:ph="/headless-main/container-1/column-1-2" />
+            <r
+              uid="{BDE63189-0FDD-4ADD-B3F5-5EC179F3EABB}"
+              p:after="r[@uid='{4E90BF82-8E6D-4E93-8F57-B58A574F3A8F}']"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{777C1B15-3F3A-4649-BCA1-FA28A669DE15}"
+              p:after="r[@uid='{BDE63189-0FDD-4ADD-B3F5-5EC179F3EABB}']" />
+            <r
+              uid="{6948AF41-1810-440F-9B64-0CF176914C3A}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "0ba1e9d7-3b62-45b4-9922-c2e1330d87a9"
+      Hint: EventLocation
+      Value: Hydrabad
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T071107Z
+    - ID: "26fdbf47-2e40-4852-90cf-19b173a28b02"
+      Hint: Content
+      Value: |
+        Office inaugurations are significant events that mark the official opening of a new office space or the commencement of operations in a particular location. They provide an opportunity to celebrate and showcase the organization's growth, achievements, and future plans. Here are some key aspects to consider for an office inauguration:<br />
+        <br />
+        1. Planning and Preparation: Start by planning the event well in advance. Determine the date, time, and duration of the inauguration ceremony. Create a checklist of tasks, including invitations, venue arrangements, decorations, catering, audiovisual equipment, and any necessary permits or licenses.<br />
+        <br />
+        2. Invitations and Guest List: Prepare a guest list based on key stakeholders, such as clients, partners, employees, local officials, and media representatives. Send out formal invitations well in advance, including event details, RSVP instructions, and any specific instructions or dress code.<br />
+        <br />
+        3. Venue Setup and Decorations: Arrange the office space or designated venue for the inauguration ceremony. Decorate the space appropriately, incorporating the organization's branding elements and creating a welcoming ambiance. Consider incorporating a ribbon-cutting ceremony or unveiling of a plaque to signify the official opening.<br />
+        <br />
+        4. Ceremony and Speeches: Plan a program for the inauguration ceremony, which may include speeches by company executives, local dignitaries, or guest speakers. Highlight the organization's achievements, future plans, and the significance of the new office location. Consider incorporating employee recognition or awards to foster a sense of unity and motivation.<br />
+        <br />
+        5. Networking and Refreshments: Provide opportunities for networking and socializing during the event. Arrange for refreshments and catering services, ensuring they align with the event's scale and budget. Consider incorporating a tour of the office space to allow guests to explore the facilities.<br />
+        <br />
+        6. Media Coverage and Public Relations: Invite local media outlets to cover the inauguration. Prepare press releases or media kits to provide information about the organization, its growth, and the significance of the new office. Consider appointing a spokesperson or designated point of contact for media interactions.<br />
+        <br />
+        7. Follow-up and Thank You: After the event, send thank-you notes or emails to all attendees, expressing gratitude for their presence and support. Share any event highlights or photographs on social media or the organization's website to generate post-event engagement and celebrate the inauguration.<br />
+        <br />
+        Remember, the specifics of an office inauguration can vary based on the organization's size, culture, and location. It's important to tailor the event to align with your organization's values and objectives while creating a memorable experience for attendees.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{72E21251-85B0-4A13-B181-FCE910B08232}"
+    - ID: "854b8aa8-c380-4e02-ac9d-29a83546dfc4"
+      Hint: RelatedEvents
+      Value: |
+        {80D63228-F1F0-4534-83E1-6B374765652A}
+        {02D92335-D70A-4B16-8309-64D4CD87F622}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4109502-df4a-4c52-bb2f-75feb9822db7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dkakade@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230526T103313Z
+    - ID: "e7bfb4d9-0898-4469-a690-58a45fe8412e"
+      Hint: Title
+      Value: Opening Ceremony
+    - ID: "fd7ab60a-5785-4025-8cd7-b9c6a2759f3a"
+      Hint: Description
+      Value: "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
